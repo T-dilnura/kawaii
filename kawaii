@@ -1,0 +1,85 @@
+a = int(input("кг конфет: ")) 
+b = int(input("som за кг: ")) 
+s = a * b 
+print(s) 
+
+w = 15 
+h = 25 
+s = w * h 
+print(s) 
+ 
+
+m = 100 
+g = 15 
+v = 100 // 15 
+print("забили", v ,"голов") 
+ 
+
+print(4 * 491, "- килоколорий в день") 
+ 
+
+print(1000 * 0.27, "- Колорий потратили") 
+ 
+
+x = int(input('cash per month: ')) 
+p = 35 
+i = x / 100 * 35 
+print(i) 
+ 
+print(90/15, "- голов забили") 
+ 
+
+h = 150 
+w = 1500 
+l = 2500 
+g = 24 * 24 * 5 
+o = 150 * 1500 * 2500 
+k = o / g 
+print(k, "- кирпичиков нужно") 
+ 
+print(104.8 /0.27, "- шагов нужно") 
+
+sm = int(input("Vvedite sm:")) 
+m = sm // 100 
+print(m, "- метров") 
+ 
+
+sm = int(input("vvedite sm:")) 
+m = sm // 1000 
+print(m, "- тон") 
+ 
+
+a = int( input("side of square:")) 
+print(a * 4, "- периметр квадрата") 
+
+a = int( input("side of perimetr:")) 
+print(a * a, "- площадь квадрата") 
+a = int( input("Side of square:")) 
+b = int( input("Side of square:")) 
+print(a * b, "- площадь квадрата") 
+print(2 * (a + b), "- периметр квадрата") 
+ 
+ 
+d = int( input("side:")) 
+print(d * 3.14, "- длина окружности") 
+ 
+
+a = int( input(":")) 
+print(a ** 3) 
+print( 6 * (a **2)) 
+ 
+
+a = int( input("Side:")) 
+b = int( input("Side:")) 
+c = int( input("side:")) 
+print(a * b * c, "Объем") 
+print(2 * a * b + b * c + a * c) 
+ 
+
+r = int( input("Length:")) 
+print(6.28 * r, "длина") 
+print(3.14 * (r ** 2), "Площадь") 
+  
+a = int(input("Number:")) 
+b = int( input("Number:")) 
+print((a + b) / 2, "- Сред. ареф. Ч.")
